@@ -1,4 +1,4 @@
-### What's up nerds 🍺
+### What's up nerds 🤖
 
 ---
 
