@@ -1,16 +1,14 @@
-### Hi there 👋
+### What's up nerds 🍺
 
-<!--
-**neetjn/neetjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a fullstack software engineer with experience in distributed systems, DevOps, and testing/automation. I'm currently employed with **[Catapult Sports](http://catapultsports.com/)**, previously employed at **[Transparent Language](https://www.transparent.com/)** and **[Polymath Ventures / Vincu](https://www.transparent.com/)**. Primary languages I work with are **Python** and **Javascript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [node-beers](https://github.com/neetjn/node-beers) and [react-comlink-example](https://github.com/neetjn/react-comlink-example). 
+- 🌱 I’m currently learning **rust** and **machine learning**.
+- 💬 Ask me about **anything**.
+- 📫 How to reach me: **jnolette@neetgroup.net**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: 🍺 Beer is my best friend.
+
+Follow me on Twitter [@neetjn](https://twitter.com/neet_jn/) and checkout my book ["Building Apps with Riot"](https://bleedingedgepress.com/building-apps-with-riot/)!
