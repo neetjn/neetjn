@@ -4,8 +4,8 @@
 
 I'm a fullstack software engineer with experience in distributed systems, DevOps, and testing/automation. I'm currently employed with **[Catapult Sports](http://catapultsports.com/)**, previously employed at **[Transparent Language](https://www.transparent.com/)** and **[Polymath Ventures / Vincu](https://www.vincu.com/)**. Primary languages I work with are **Python** and **Javascript**.
 
-- 🔭 I’m currently working on [node-beers](https://github.com/neetjn/node-beers) and [react-comlink-example](https://github.com/neetjn/react-comlink-example). 
-- 🌱 I’m currently learning **rust** and **machine learning**.
+- 🔭 I’m currently working on [flutter-todo-desktop](https://github.com/neetjn/flutter-todo-desktop) and [elm-swapi](https://github.com/neetjn/elm-swapi). 
+- 🌱 I’m currently learning **rust**, **flutter**, **machine learning**.
 - 💬 Ask me about **anything**.
 - 📫 How to reach me: **jnolette@neetgroup.net**
 - 😄 Pronouns: **He/Him**
