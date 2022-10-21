@@ -2,7 +2,7 @@
 
 ---
 
-I'm a fullstack software engineer with experience in distributed systems, DevOps, and testing/automation. I'm currently employed with **[Catapult Sports](http://catapultsports.com/)**, previously employed at **[Transparent Language](https://www.transparent.com/)** and **[Polymath Ventures / Vincu](https://www.vincu.com/)**. Primary languages I work with are **Python** and **Javascript**.
+I'm a fullstack software engineer with experience in distributed systems, DevOps, and testing/automation. I'm currently employed with **[MessageBird](http://messagebird.com/)**, previously employed at **[Catapult Sports](https://catapultsports.com/)**, **[Transparent Language](https://www.transparent.com/)**, and **[Polymath Ventures / Vincu](https://www.vincu.com/)**. Primary languages I work with are **Python** and **Javascript**.
 
 - 🔭 I’m currently working on [flutter-beers](https://github.com/neetjn/flutter-beers) and [elixir-beers](https://github.com/neetjn/elixir-beers). 
 - 🌱 I’m currently learning **elixir**, **flutter**, **machine learning**.
